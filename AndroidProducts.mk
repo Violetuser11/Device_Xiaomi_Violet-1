@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/palyrim_violet.mk
+    $(LOCAL_DIR)/axiom_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    palyrim_violet-userdebug \
-    palyrim_violet-user \
-    palyrim_violet-eng
+    axiom_violet-userdebug \
+    axiom_violet-user \
+    axiom_violet-eng
