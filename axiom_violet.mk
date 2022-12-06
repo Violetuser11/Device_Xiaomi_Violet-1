@@ -22,6 +22,9 @@ AXIOM_MAINTAINER := DrOpto
 #Gapps
 #WITH_GAPPS := true
 
+#Blur
+TARGET_SUPPORTS_BLUR := true
+
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
